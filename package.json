@@ -9,9 +9,6 @@
   },
   "author": "Jonnas Fonini",
   "license": "MIT",
-  "dependencies": {
-    "ckeditor": ">=4.0.0"
-  },
   "bugs": {
     "url": "https://github.com/fonini/ckeditor-youtube-plugin/issues"
   },
