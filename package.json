@@ -1,0 +1,19 @@
+{
+  "name": "ckeditor-youtube-plugin",
+  "version": "2.1.0",
+  "description": "Youtube Plugin for CKEditor 4",
+  "main": "youtube/plugin.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fonini/ckeditor-youtube-plugin.git"
+  },
+  "author": "Jonnas Fonini",
+  "license": "MIT",
+  "dependencies": {
+    "ckeditor": ">=4.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/fonini/ckeditor-youtube-plugin/issues"
+  },
+  "homepage": "https://github.com/fonini/ckeditor-youtube-plugin#readme"
+}
